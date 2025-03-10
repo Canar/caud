@@ -16,5 +16,5 @@ Don't.
 ## Release Log
 
 Original dev. `~2020`\
-Initial private release. `2025-03-10`
+Initial publication. `2025-03-10`
  
