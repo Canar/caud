@@ -8,7 +8,7 @@ void main(){
 	uint16_t buf[FREQ];
 	uint64_t off=0;
 	uint64_t width,i,flw;
-	srand(time(NULL));
+	srand(clock());
 	
 	while( off < LEN ){
 		flw=(off * FREQ) / LEN;
